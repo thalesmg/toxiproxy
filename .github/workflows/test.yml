@@ -4,7 +4,7 @@ name: Test
 
 on:
   push:
-    branches: [master]
+    branches: [master, corrupt-mkII]
   pull_request:
     branches: [master]
 
